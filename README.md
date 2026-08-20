@@ -1,0 +1,2 @@
+# E-Commerce-Customer-Churn-Analysis-Analytical-Framework-Executive-Dashboard
+A comprehensive end-to-end business analytics project that transforms raw e-commerce operational data into an executive-level decision engine. This framework equips retention and marketing teams with transparent risk segmentation, structured business requirements, and an automated Excel dashboard to reduce customer churn.
